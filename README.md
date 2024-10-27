@@ -13,6 +13,8 @@ Welcome to **So Long**! 2D mini-game, written in C and using the MinilibX. Playe
 
 ## How to Play
 
+Launch with ./so_long ./maps/(choose a map) |
+For the bonus part use make bonus and execute with ./so_long_bonus ./maps/mapsbonus/(choose a map)
 1. Navigate the monkey through the jungle.
 2. Collect all the bananas to progress.
 3. Avoid the tigers to stay safe.
